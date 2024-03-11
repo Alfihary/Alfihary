@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alfihary&theme=blood-dark&hide_border=true&border_radius=11.2&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **Alfihary/Alfihary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
