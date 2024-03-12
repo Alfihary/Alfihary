@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alfihary&theme=blood-dark&hide_border=true&border_radius=11.2&locale=es&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alfihary&theme=blood-dark&hide_border=true&border_radius=11.2&locale=es&date_format=j%20M%5B%20Y%5D)
 ![Alfihary's Stats](https://github-readme-stats.vercel.app/api?username=Alfihary&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Alfihary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfihary&theme=react&show_icons=true&hide_border=true&layout=compact)
 <!--
